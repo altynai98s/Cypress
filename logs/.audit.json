@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/Users/altynai/Desktop/juice-shop-master/logs/.audit.json",
+    "files": [
+        {
+            "date": 1694017303164,
+            "name": "/Users/altynai/Desktop/juice-shop-master/logs/access.log.2023-09-06",
+            "hash": "c684bca1407c1021071edd2ac23f73d4"
+        },
+        {
+            "date": 1694100115075,
+            "name": "/Users/altynai/Desktop/juice-shop-master/logs/access.log.2023-09-07",
+            "hash": "9e1d6061f38613ca34f5aa7228455bf6"
+        }
+    ]
+}
